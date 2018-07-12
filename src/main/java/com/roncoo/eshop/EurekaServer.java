@@ -11,7 +11,7 @@ public class EurekaServer {
 	public static void main(String[] args) {
 		System.out.println("halo!");
                 System.out.println("halo!");
-		System.out.println("halo!~~~~");
+		
 		SpringApplication.run(EurekaServer.class, args);
 	}
 	
